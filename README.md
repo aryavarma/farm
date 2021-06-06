@@ -3,20 +3,30 @@ I created this project during my undergrad CS program. Submitted as a final year
 Bsc. Computer Science Final Year(2019-2020).
 
 Hello!
+
 The project was created using php, javascript, mysql. Xampp was used to host this project . Why xampp? XAMPP is an abbreviation for cross-platform, Apache, MySQL, PHP and Perl, and it allows you to build site offline, on a local web server on your computer.
 
 Description:
+
     The project was created with an intention that if a farmer wants to sell their farm produce like fruits, vegetables , seeds or diary products like milk, etc or if they want, they can sell them online using this website, also provide information like nutritious value and stuff related to the products easily using this website.
     The customer just have to register and login themselves and can buy any product easily, online. They can view the blogs , gain information and buy products if they want. 
     
 Components:
+
 1.Index file.(Home page)
+
 2.Login/Register
+
 3.Product and service Categories like (vegetables, Milk, Fruits, Seeds, and additional option of rooms available.). 
+
 4.The admin(Farmer) can describe the product , put up images about the product, quanity,etc.
+
 5.Dashboard: To view total sales,sales for current day, number of products, number of users. The admin can add new users, categories and product.
+
 6.View Cart for customers
+
 7.Check-out online.
+
 
 
 To run the project:
@@ -84,7 +94,9 @@ Admin profile information Edit
 
 
 Reference: Google,Youtube,etc. 
+
 Thanks and Regards,
+
 Arya 
 
 

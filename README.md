@@ -40,7 +40,8 @@ Some Snapshots of UI.
  
  Login and Signup
  
-![image](https://user-images.githubusercontent.com/74491117/120925320-b885dd80-c6f5-11eb-8792-5ede81e23229.png)
+![image](https://user-images.githubusercontent.com/74491117/120925717-6d6cca00-c6f7-11eb-905a-8df6ce50f46a.png)
+
 
 Forgot password
 

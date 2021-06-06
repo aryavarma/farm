@@ -1,7 +1,6 @@
 # farm
-I created this project during my undergrad CS program. Submitted as a final year project.
+I created this project during my Bsc. Computer Science Final Year(2019-2020) program. Submitted as a final year project.
 
-Bsc. Computer Science Final Year(2019-2020).
 
 Caution: Many folders and files are not uploaded,above. Only some folders are uploaded. So download the above codes for reference.
 

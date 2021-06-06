@@ -1,5 +1,6 @@
 # farm
 I created this project during my undergrad CS program. Submitted as a final year project.
+
 Bsc. Computer Science Final Year(2019-2020).
 
 Hello!
@@ -14,17 +15,11 @@ Description:
 Components:
 
 1.Index file.(Home page)
-
 2.Login/Register
-
 3.Product and service Categories like (vegetables, Milk, Fruits, Seeds, and additional option of rooms available.). 
-
 4.The admin(Farmer) can describe the product , put up images about the product, quanity,etc.
-
 5.Dashboard: To view total sales,sales for current day, number of products, number of users. The admin can add new users, categories and product.
-
 6.View Cart for customers
-
 7.Check-out online.
 
 

@@ -2,7 +2,7 @@
 I created this project during my Bsc. Computer Science Final Year(2019-2020) program. Submitted as a final year project.
 
 
-Caution: Many folders and files are not uploaded,above. Only some folders are uploaded. So download the above codes for reference.
+Caution: Many folders and files are not uploaded,above. Only some folders are uploaded. So download the above folder for reference.As the project will not work.
 
 Hello!
 

@@ -35,28 +35,41 @@ Some Snapshots of UI.
  
  Login and Signup
 ![image](https://user-images.githubusercontent.com/74491117/120925320-b885dd80-c6f5-11eb-8792-5ede81e23229.png)
+
 Forgot password
 ![image](https://user-images.githubusercontent.com/74491117/120925332-c9ceea00-c6f5-11eb-9872-8b071e0c84bd.png)
+
 Index page
 ![image](https://user-images.githubusercontent.com/74491117/120925350-d7846f80-c6f5-11eb-92ae-0ce440171284.png)
+
 Category:Product section:Vegetables
 ![image](https://user-images.githubusercontent.com/74491117/120925359-e8cd7c00-c6f5-11eb-9873-e0147101ba88.png)
+
 Product view and blogging option
 ![image](https://user-images.githubusercontent.com/74491117/120925371-f7b42e80-c6f5-11eb-8ef2-ca27bc5266c9.png)
+
 Customer/users' cart
 ![image](https://user-images.githubusercontent.com/74491117/120925383-07337780-c6f6-11eb-8e70-60836cfd2669.png)
+
 Admin Dashboard
 ![image](https://user-images.githubusercontent.com/74491117/120925396-1286a300-c6f6-11eb-81be-f971bcfc1798.png)
+
 Sales HIstory
 ![image](https://user-images.githubusercontent.com/74491117/120925397-1286a300-c6f6-11eb-849a-1d17011e1bea.png)
+
 Users section+Add new user
 ![image](https://user-images.githubusercontent.com/74491117/120925425-34802580-c6f6-11eb-817a-74b914c7a7bc.png)
+
 Product list: Add new product+Edit product
 ![image](https://user-images.githubusercontent.com/74491117/120925439-49f54f80-c6f6-11eb-8cda-3caf1301a3f7.png)
+
+
 Category+ Add new Category
 ![image](https://user-images.githubusercontent.com/74491117/120925447-57aad500-c6f6-11eb-8133-a46918131e81.png)
+
 Admin profile information Edit
 ![image](https://user-images.githubusercontent.com/74491117/120925458-642f2d80-c6f6-11eb-8de5-a2a8b8f274d5.png)
+
 
 Reference: Google,Youtube,etc. 
 Thanks and Regards,

@@ -3,6 +3,8 @@ I created this project during my undergrad CS program. Submitted as a final year
 
 Bsc. Computer Science Final Year(2019-2020).
 
+Caution: Many folders and files are not uploaded,above. Only some folders are uploaded. So download the above codes for reference.
+
 Hello!
 
 The project was created using php, javascript, mysql. Xampp was used to host this project . Why xampp? XAMPP is an abbreviation for cross-platform, Apache, MySQL, PHP and Perl, and it allows you to build site offline, on a local web server on your computer.

@@ -40,8 +40,8 @@
 			        $mail->isSMTP();                                     
 			        $mail->Host = 'smtp.gmail.com';                      
 			        $mail->SMTPAuth = true;                               
-			        $mail->Username = 'blindspot2326@gmail.com';     
-			        $mail->Password = 'despacito49';                    
+			        $mail->Username = '#your email';     
+			        $mail->Password = '#password';                    
 			        $mail->SMTPOptions = array(
 			            'ssl' => array(
 			            'verify_peer' => false,
@@ -52,11 +52,11 @@
 			        $mail->SMTPSecure = 'ssl';                           
 			        $mail->Port = 465;                                   
 
-			        $mail->setFrom('blindspot2326@gmail.com');
+			        $mail->setFrom('#youremail');
 			        
 			        //Recipients     testsourcecodester@gmail.com
 			        $mail->addAddress($email);              
-			        $mail->addReplyTo('blindspot2326@gmail.com');
+			        $mail->addReplyTo('#youremail');
 			       
 			        //Content
 			        $mail->isHTML(true);                                  
